@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import eventBus from "./../eventBus";
+import PropTypes from "prop-types";
 import "./Notifications.css";
 
 const NotificationList = ({ autoDismiss = 3000 }) => {
