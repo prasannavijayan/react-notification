@@ -1,6 +1,5 @@
 {
   "name": "react-pub-sub-notification",
-  "private": true,
   "version": "0.0.1",
   "description": "A simple pub-sub notification system in React",
   "type": "module",
